@@ -2,6 +2,8 @@ from bs4 import BeautifulSoup
 import requests
 import json
 
+
+
 file = open("cityid.txt",'r')
 wFile=open('result.txt','a')
 
